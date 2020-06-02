@@ -1,0 +1,17 @@
+Package: com.aohuiliu.xgesture13
+Name: XGesture13
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: X手势⚡️
+ X手势
+ 增加横屏禁用
+ 原版键盘
+ 锁屏快捷方式（手电、相机）
+ 键盘开启时禁用手势
+ 相机底部抬升
+ 代码优化
+ 轻量不耗电
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Author: AohuiLiu <x345242281@outlook.com>
+Section: Tweaks
